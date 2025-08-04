@@ -104,7 +104,7 @@ competitive hiring environments.
 
 ## 📸 Screenshots
 
-![UI Demo](assets/demo.png)
+![UI Demo](demo.png)
 
 ---
 
