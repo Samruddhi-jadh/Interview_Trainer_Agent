@@ -1,0 +1,290 @@
+{
+  "Data Scientist": {
+    "technical": [
+      "Explain the bias-variance tradeoff.",
+      "How would you handle imbalanced data?",
+      "What's the difference between precision and recall?",
+      "Explain a project where you used machine learning.",
+      "What are different types of recommendation systems?"
+    ],
+    "hr": [
+      "Tell me about yourself.",
+      "Why do you want to join our company?",
+      "Describe a time you failed and what you learned.",
+      "Where do you see yourself in 5 years?",
+      "How do you handle tight deadlines?"
+    ]
+  },
+  "Software Engineer": {
+    "technical": [
+      "Explain the difference between a process and a thread.",
+      "What is a race condition and how do you prevent it?",
+      "Describe the use of design patterns in your projects.",
+      "What is the difference between an interface and an abstract class?",
+      "How does garbage collection work in Java?"
+    ],
+    "hr": [
+      "What motivates you to write clean code?",
+      "How do you deal with conflicting feedback from team members?",
+      "Describe a project where you worked under pressure.",
+      "How do you ensure productivity when working remotely?",
+      "Why should we hire you?"
+    ]
+  },
+  "Machine Learning Engineer": {
+    "technical": [
+      "How do you prevent overfitting in ML models?",
+      "Explain the use of cross-validation.",
+      "What is the role of activation functions in neural networks?",
+      "Difference between bagging and boosting?",
+      "How do you choose evaluation metrics for classification tasks?"
+    ],
+    "hr": [
+      "How do you stay updated with ML advancements?",
+      "Describe your collaboration experience with data scientists.",
+      "How do you prioritize tasks in fast-paced environments?",
+      "Tell me about a time you had to explain ML to a non-technical person.",
+      "What are your long-term goals in ML?"
+    ]
+  },
+  "Frontend Developer": {
+    "technical": [
+      "Explain the virtual DOM in React.",
+      "What is the difference between == and === in JavaScript?",
+      "How do you optimize web page performance?",
+      "What are web accessibility standards?",
+      "How do you manage component state in React?"
+    ],
+    "hr": [
+      "What frontend project are you most proud of?",
+      "How do you handle design-to-code mismatches?",
+      "Describe a time you solved a UI bug creatively.",
+      "What’s your preferred way of receiving design feedback?",
+      "How do you keep up with frontend trends?"
+    ]
+  },
+  "Backend Developer": {
+    "technical": [
+      "What are RESTful APIs and how do they work?",
+      "How do you secure user data in backend services?",
+      "What is the difference between SQL and NoSQL?",
+      "Explain middleware in Express.js.",
+      "How do you implement caching in backend systems?"
+    ],
+    "hr": [
+      "Why do you prefer backend development?",
+      "How do you ensure your APIs are scalable?",
+      "Describe a critical bug you fixed in production.",
+      "How do you collaborate with frontend teams?",
+      "What’s your approach to writing maintainable backend code?"
+    ]
+  },
+  "Full Stack Developer": {
+    "technical": [
+      "Describe your experience working with MERN stack.",
+      "How do you manage authentication across frontend and backend?",
+      "Explain SSR vs CSR.",
+      "What CI/CD tools have you used?",
+      "How do you handle state management in large apps?"
+    ],
+    "hr": [
+      "What’s your approach to switching between backend and frontend?",
+      "Describe a time you led a full stack project.",
+      "How do you ensure cross-team collaboration?",
+      "What full stack tools do you find most productive?",
+      "What’s the most complex feature you’ve built?"
+    ]
+  },
+  "DevOps Engineer": {
+    "technical": [
+      "What is infrastructure as code?",
+      "Describe how CI/CD pipelines work.",
+      "What monitoring tools do you use?",
+      "Explain container orchestration with Kubernetes.",
+      "How do you manage secrets in DevOps workflows?"
+    ],
+    "hr": [
+      "Why did you choose DevOps?",
+      "Describe a time you resolved a major deployment failure.",
+      "How do you reduce friction between dev and ops teams?",
+      "What’s your biggest DevOps success story?",
+      "How do you handle on-call incidents?"
+    ]
+  },
+  "Cloud Engineer": {
+    "technical": [
+      "Compare AWS, Azure, and IBM Cloud.",
+      "Explain cloud load balancing.",
+      "What is serverless computing?",
+      "How do you configure auto-scaling?",
+      "What’s the difference between SaaS, PaaS, and IaaS?"
+    ],
+    "hr": [
+      "Why are you passionate about cloud computing?",
+      "How do you manage cloud cost optimization?",
+      "Describe a time you migrated a service to the cloud.",
+      "How do you ensure security in multi-cloud environments?",
+      "How do you handle outages in cloud deployments?"
+    ]
+  },
+  "Cybersecurity Analyst": {
+    "technical": [
+      "Explain the CIA triad.",
+      "What is XSS and how do you prevent it?",
+      "Describe the steps in a vulnerability assessment.",
+      "What are firewalls and IDS/IPS?",
+      "How do you respond to a ransomware attack?"
+    ],
+    "hr": [
+      "Why did you choose cybersecurity?",
+      "Describe a time you found a security flaw.",
+      "How do you handle reporting incidents?",
+      "What are your thoughts on ethical hacking?",
+      "How do you balance speed and security?"
+    ]
+  },
+  "Data Analyst": {
+    "technical": [
+      "How do you handle missing data?",
+      "What is the difference between aggregation and filtering?",
+      "Describe how you use Excel for analysis.",
+      "What visualization libraries do you prefer in Python?",
+      "How do you choose the right chart for data?"
+    ],
+    "hr": [
+      "Tell me about a time your analysis changed a decision.",
+      "How do you handle feedback on your reports?",
+      "Describe how you prioritize analysis tasks.",
+      "What’s your favorite part of data storytelling?",
+      "How do you explain insights to non-technical teams?"
+    ]
+  },
+  "UI/UX Designer": {
+    "technical": [
+      "Describe your design process from wireframe to prototype.",
+      "What tools do you use for UI design?",
+      "How do you conduct user research?",
+      "Explain accessibility in design.",
+      "How do you validate a design before development?"
+    ],
+    "hr": [
+      "Why are you passionate about design?",
+      "How do you handle conflicting feedback?",
+      "Describe a time your design was misunderstood.",
+      "How do you advocate for users in product discussions?",
+      "What design project are you most proud of?"
+    ]
+  },
+  "Product Manager": {
+    "technical": [
+      "How do you prioritize features?",
+      "Describe how you create a product roadmap.",
+      "What tools do you use for product management?",
+      "Explain how you define KPIs for a product.",
+      "How do you handle feature creep?"
+    ],
+    "hr": [
+      "Tell me about a product you launched.",
+      "How do you deal with conflicts between engineering and design?",
+      "Describe your leadership style.",
+      "How do you gather customer feedback?",
+      "Why do you want to be a product manager?"
+    ]
+  },
+  "QA Engineer": {
+    "technical": [
+      "Difference between black-box and white-box testing?",
+      "What is regression testing?",
+      "How do you write a test case?",
+      "What’s your experience with automated testing tools?",
+      "Explain how you handle bug tracking."
+    ],
+    "hr": [
+      "Why are you interested in QA?",
+      "How do you handle disagreements with developers?",
+      "Describe a major bug you caught in production.",
+      "How do you prioritize test cases?",
+      "What motivates you to ensure quality?"
+    ]
+  },
+  "AI Researcher": {
+    "technical": [
+      "Explain transfer learning and its advantages.",
+      "How do you fine-tune large language models?",
+      "What’s your experience with reinforcement learning?",
+      "Compare supervised vs unsupervised learning.",
+      "How do you measure fairness in AI systems?"
+    ],
+    "hr": [
+      "Why do you want to pursue AI research?",
+      "Describe your most complex AI project.",
+      "How do you stay updated with the latest in AI?",
+      "What paper or publication inspired your work?",
+      "Where do you see AGI in 10 years?"
+    ]
+  },
+  "Business Analyst": {
+    "technical": [
+      "What tools do you use for requirements gathering?",
+      "How do you define business KPIs?",
+      "What’s the role of a BA in Agile?",
+      "Describe your experience with stakeholder interviews.",
+      "How do you validate business requirements?"
+    ],
+    "hr": [
+      "Why are you interested in business analysis?",
+      "How do you handle conflicting stakeholder priorities?",
+      "Describe a time your recommendation saved costs.",
+      "How do you communicate with technical teams?",
+      "What business problem are you most proud to solve?"
+    ]
+  },
+  "Technical Writer": {
+    "technical": [
+      "How do you structure technical documentation?",
+      "What tools do you use for authoring docs?",
+      "Describe the difference between API and user guide.",
+      "How do you document a rapidly changing system?",
+      "How do you test the accuracy of documentation?"
+    ],
+    "hr": [
+      "Why are you interested in technical writing?",
+      "How do you handle working with engineers?",
+      "Describe a time your documentation saved time.",
+      "How do you manage multiple documents under deadline?",
+      "What types of documentation do you enjoy writing most?"
+    ]
+  },
+  "Robotics Engineer": {
+    "technical": [
+      "Describe inverse kinematics in robotics.",
+      "What programming languages do you use for robotics?",
+      "How do sensors and actuators work together?",
+      "Explain a robot control loop.",
+      "How do you simulate a robot in software?"
+    ],
+    "hr": [
+      "Why are you passionate about robotics?",
+      "Describe a robotics project you built from scratch.",
+      "How do you collaborate with mechanical teams?",
+      "How do you debug hardware issues?",
+      "What’s your dream robotics application?"
+    ]
+  },
+  "Mobile App Developer": {
+    "technical": [
+      "What’s the difference between native and cross-platform?",
+      "How do you manage state in Flutter or React Native?",
+      "How do you handle app performance optimization?",
+      "What’s your experience with mobile databases?",
+      "How do you test your mobile apps?"
+    ],
+    "hr": [
+      "Describe an app you built and published.",
+      "How do you stay updated with mobile trends?",
+      "Describe your design-to-code process.",
+      "How do you ensure cross-device compatibility?",
+      "What’s the most challenging bug you fixed?"
+    ]
+  }
+}
