@@ -102,7 +102,7 @@ competitive hiring environments.
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshot Of User Interface
 
 ![UI Demo](demo.png)
 
